@@ -2,6 +2,7 @@
 
 📊 This project visualizes user behavior on an e-commerce platform using clickstream data. The dashboard provides insights into user engagement, event conversion, and purchase behavior.
 
+
 ![Dashboard Preview](https://github.com/vaish1898/ecommerce-clickstream-powerbi-dashboard/blob/main/Dashboard.png)
 
 ---
@@ -23,8 +24,8 @@
 ---
 
 ## 📂 Files in this Repository
-- `ecommerce_dashboard.pbix` – Power BI file
-- `ecommerce_dashboard.png` – Dashboard screenshot
+- `ecommerce data` – csv file
+- `Dashboard.png` – Dashboard screenshot
 - `README.md` – Project overview
 
 ---
