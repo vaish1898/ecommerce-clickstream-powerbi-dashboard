@@ -8,32 +8,44 @@
 ---
 
 ## 📌 Key Features
-- KPI cards for Conversion Rate, Total Users, Returning Users
-- Funnel view of event types (page view → product view → add to cart → purchase)
-- Session and user counts by EventType
-- Product-wise revenue breakdown
-- Donut chart of user categories
+- KPI cards showing:
+  - **Purchase Conversion Rate**
+  - **Total Users**
+  - **Returning Users**
+- Interactive donut chart segmenting:
+  - Users with Purchases
+  - Total Users
+  - Returning Users
+- Pie chart visualizing:
+  - Total amount by ProductID
+- Event funnel and performance metrics:
+  - Count of Sessions and Users by Event Type
+  - User engagement across event types (e.g., `page_view`, `add_to_cart`, `purchase`, etc.)
+
+---
+
+## ✅ What’s Done
+
+- Cleaned and prepared **clickstream data** from an eCommerce source.
+- Created **user-level metrics** like total users, returning users, and purchase conversion.
+- Aggregated **events** such as product views, add-to-cart, purchases, and logins to track user behavior.
+- Built visualizations in Power BI to:
+  - Show purchase funnel behavior
+  - Analyze session and event distribution
+  - Highlight top-performing products by sales amount
+- Applied **DAX measures** for custom metrics such as:
+  - Total user count
+  - Purchase conversion rate calculation
+  - Count of unique sessions and users per event type
+- Designed an intuitive and professional **dashboard layout** for business stakeholders.
 
 ---
 
 ## 🧰 Tools & Technologies
 - **Power BI**
-- Clickstream data (mock dataset)
-- DAX & Data Modelling
-
----
-
-## 📂 Files in this Repository
-- `ecommerce data` – csv file
-- `Dashboard.png` – Dashboard screenshot
-- `README.md` – Project overview
-
----
-
-## ✅ How to Use
-1. Open `.pbix` in Power BI Desktop
-2. Explore filters and visuals
-3. Customize as per your dataset
+- Clickstream data (mock or anonymized dataset)
+- DAX & Data Modeling
+- Data Visualization Best Practices
 
 ---
 
