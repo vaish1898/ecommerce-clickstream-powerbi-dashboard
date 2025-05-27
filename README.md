@@ -2,7 +2,7 @@
 
 📊 This project visualizes user behavior on an e-commerce platform using clickstream data. The dashboard provides insights into user engagement, event conversion, and purchase behavior.
 
-![Dashboard Preview](ecommerce_dashboard.png)
+![Dashboard Preview](https://github.com/vaish1898/ecommerce-clickstream-powerbi-dashboard/blob/main/Dashboard.png)
 
 ---
 
