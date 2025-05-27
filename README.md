@@ -38,7 +38,7 @@
 
 ## 💡 Author
 **Vaishnavi Raut** – MSc in Business Analytics and Decision Sciences  
-[LinkedIn](https://www.linkedin.com/in/vaishnavi-raut) | [Portfolio](#)
+
 
 
 
